@@ -1,2 +1,0 @@
-# Grafana sqllite config database used in the Prometheus community catalog entry for Rancher. 
-# Dashboards exported out for those running this with an external DB
